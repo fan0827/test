@@ -7,7 +7,7 @@ import { InstagramEmbed, FacebookEmbed } from 'react-social-media-embed';
 
 
 const links = [
-  { title: "Discord", subtitle: "discord 群組", linktext: "", link: "", icon: "/images/discord.jpg", bg: "", html: <WidgetBot width={"100%"} height={"100%"} server="1128923700306133013" channel="1129016420022353921" />, h: 1, w: 2 },
+  { title: "Discord", subtitle: "discord 群組", linktext: "", link: "", icon: "/images/discord.jpg", bg: "", html: <WidgetBot width={"100%"} height={"100%"} server="1054777762667307018" channel="1055796651509428304" />, h: 1, w: 2 },
   { title: "Github", subtitle: "github 個人檔案", linktext: "", link: "", icon: "/images/github.jpg", bg: "", html: <><img src="https://github-readme-stats.vercel.app/api?username=tooty-1135&locale=zh-tw&show_icons=true" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tooty-1135&layout=compact&locale=zh-tw" /></>, h: 1, w: 1 },
   { title: "NGGYU", subtitle: "Never gonna give you up", linktext: "", link: "", icon: "/images/nggyu.jpg", bg: "", html: <iframe style={{ borderRadius: "12px" }} src="https://open.spotify.com/embed/track/4PTG3Z6ehGkBFwjybzWkR8?utm_source=generator" width="100%" height="352" frameBorder="0" allowFullScreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>, h: 2, w: 2 },
   { title: "Instagram", subtitle: "Instagram 個人檔案", linktext: "", link: "", icon: "/images/instagram.png", bg: "", html: <InstagramEmbed url="https://www.instagram.com/asteroid_owo/" linkText={"在 Instagram 上查看"} width={"100%"} height={"100%"} />, h: 1, w: 1 },
